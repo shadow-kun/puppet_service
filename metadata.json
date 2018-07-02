@@ -1,0 +1,18 @@
+{
+  "name": "shadowkun-puppet_service",
+  "version": "0.1.0",
+  "author": "Daniel Johnson",
+  "summary": "Ensures the puppet agent is enabled and running",
+  "license": "Apache-2.0",
+  "source": "https://github.com/shadow-kun/puppet_service",
+  "project_page": "https://github.com/shadow-kun/puppet_service",
+  "issues_url": "https://github.com/shadow-kun/puppet_service/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
